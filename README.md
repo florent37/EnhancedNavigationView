@@ -4,7 +4,7 @@ Enhanced NavigationView
 [![CircleCI](https://circleci.com/gh/florent37/EnhancedNavigationView/tree/master.svg?style=svg)](https://circleci.com/gh/florent37/EnhancedNavigationView/tree/master)
 [![Language](https://img.shields.io/badge/compatible-java%20%7C%20kotlin%20%7C%20rx-brightgreen.svg)](https://www.github.com/florent37/EnhancedNavigationView)
 
-[![screen](https://raw.githubusercontent.com/florent37/EnhancedNavigationView/master/medias/video.gif)](https://www.github.com/florent37/EnhancedNavigationView)
+[![screen](https://raw.githubusercontent.com/florent37/EnhancedNavigationView/master/medias/video-large.gif)](https://www.github.com/florent37/EnhancedNavigationView)
 
 # Usage
 
