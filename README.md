@@ -31,6 +31,38 @@ look at https://developer.android.com/reference/com/google/android/material/bott
             app:menu="@menu/bottom_navigation_items" />
 ```
 
+RoundRect shape of the bottom bar is providen by ShapeOfView
+
+https://github.com/florent37/ShapeOfView
+
+```xml
+<com.github.florent37.shapeofview.shapes.RoundRectView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:elevation="12dp"
+        
+        app:shape_roundRect_bottomLeftRadius="22dp"
+        app:shape_roundRect_bottomRightRadius="22dp"
+        app:shape_roundRect_topLeftRadius="8dp"
+        app:shape_roundRect_topRightRadius="8dp">
+
+
+        <com.github.florent37.enhancednavigationview.EnhancedNavigationView
+            android:id="@+id/bottom_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@color/colorBottomBar"
+            app:elevation="0dp"
+            app:itemIconTint="@color/nav_item_state_list"
+            app:itemTextColor="@color/nav_item_state_list"
+            app:menu="@menu/bottom_navigation_items" />
+</com.github.florent37.shapeofview.shapes.RoundRectView>
+```
+   
+
 # How to Contribute
 
 We welcome your contributions to this project. 
