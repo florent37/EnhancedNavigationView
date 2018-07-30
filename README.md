@@ -17,6 +17,8 @@ dependencies {
 
 EnhancedNavigationView extends google *BottomNavigationView*
 
+look at https://developer.android.com/reference/com/google/android/material/bottomnavigation/BottomNavigationView
+
 ```xml
 <com.github.florent37.enhancednavigationview.EnhancedNavigationView
             android:id="@+id/bottom_navigation"
