@@ -23,7 +23,7 @@
         app:shape_roundRect_topRightRadius="8dp">
 
 
-        <com.github.florent37.beautifulbottombar.BeautifulBottomBar
+        <com.github.florent37.enhancednavigationview.EnhancedNavigationView
             android:id="@+id/bottom_navigation"
             android:layout_width="match_parent"
             android:layout_height="60dp"

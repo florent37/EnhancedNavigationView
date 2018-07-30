@@ -1,4 +1,4 @@
-package com.github.florent37.beautifulbottombar
+package com.github.florent37.enhancednavigationview
 
 import android.content.Context
 import android.graphics.Canvas
@@ -12,7 +12,7 @@ import android.view.ViewGroup
 import com.github.florent37.mylittlecanvas.animation.ShapeAnimator
 import com.github.florent37.mylittlecanvas.shape.CircleShape
 
-open class BeautifulBottomBar : BottomNavigationView, View.OnLayoutChangeListener {
+open class EnhancedNavigationView : BottomNavigationView, View.OnLayoutChangeListener {
     override fun onLayoutChange(v: View?, left: Int, top: Int, right: Int, bottom: Int, oldLeft: Int, oldTop: Int, oldRight: Int, oldBottom: Int) {
         shapeAnimator
                 .clear()

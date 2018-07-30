@@ -1,1 +1,1 @@
-include ':app', ':beautifulbottombar'
+include ':app', ':enhanced-navigationview'
