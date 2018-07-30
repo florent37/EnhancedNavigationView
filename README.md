@@ -35,6 +35,9 @@ RoundRect shape of the bottom bar is providen by ShapeOfView
 
 https://github.com/florent37/ShapeOfView
 
+[![screen](https://raw.githubusercontent.com/florent37/ShapeOfView/master/medias/roundrect.png
+)](https://www.github.com/florent37/ShapeOfView)
+
 ```xml
 <com.github.florent37.shapeofview.shapes.RoundRectView
         android:layout_width="match_parent"
