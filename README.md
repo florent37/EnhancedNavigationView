@@ -9,7 +9,7 @@ Enhanced NavigationView
 # Usage
 
 [ ![Download](https://api.bintray.com/packages/florent37/maven/enhanced-navigationview/images/download.svg) ](https://bintray.com/florent37/maven/enhanced-navigationview/)
-```
+```java
 dependencies {
     implementation 'com.github.florent37:enhanced-navigationview:(lastest version)'
 }
@@ -18,6 +18,8 @@ dependencies {
 EnhancedNavigationView extends google *BottomNavigationView*
 
 look at https://developer.android.com/reference/com/google/android/material/bottomnavigation/BottomNavigationView
+
+[![screen](https://raw.githubusercontent.com/florent37/EnhancedNavigationView/master/medias/sample2.gif)](https://www.github.com/florent37/EnhancedNavigationView)
 
 ```xml
 <com.github.florent37.enhancednavigationview.EnhancedNavigationView
@@ -37,6 +39,12 @@ https://github.com/florent37/ShapeOfView
 
 [![screen](https://raw.githubusercontent.com/florent37/ShapeOfView/master/medias/roundrect.png
 )](https://www.github.com/florent37/ShapeOfView)
+
+```java
+dependencies {
+    implementation 'com.github.florent37:shapeofview:1.2.0'
+}
+```
 
 ```xml
 <com.github.florent37.shapeofview.shapes.RoundRectView
